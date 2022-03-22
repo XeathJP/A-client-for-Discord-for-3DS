@@ -11,6 +11,15 @@ In order to build this homebrew, you'll need the following requirements:
 Once you have installed these, a simple `make` should compile it. If you have FBI installed on your 3ds, and python installed on your computer, open FBI and go to `Remote install` -> `Recieve URLs over the network`.
  On your computer, type `make spunch`. This should install the CIA directly on your 3DS!
 
+# Explanation
+* We recommend hitting the login button several times in a row.
+* You cannot log in with a different password or email address.
+* START button to open settings (change brightness, etc.)
+* Other languages in English have characters that cannot be read. Please understand.
+* Image cannot be displayed.
+* OLD is also supported.
+If a function is added that the process cannot keep up with, we will ask you to use the traditional CIA.
+
 # Credits
 * Xeath
 * Core 2 Extreme
