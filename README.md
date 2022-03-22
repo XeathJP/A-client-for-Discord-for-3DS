@@ -24,6 +24,6 @@ If a function is added that the process cannot keep up with, we will ask you to 
 
 # Credits
 * Xeath
-* Core 2 Extreme
-* windows-server-2003
-* Tekito-256
+* Core 2 Extreme(Enable chat on the server and support other languages)
+* windows-server-2003(Build Assistance)
+* Tekito-256(Error Correction)
