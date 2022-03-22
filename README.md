@@ -23,7 +23,7 @@ Once you have installed these, a simple `make` should compile it. If you have FB
 If a function is added that the process cannot keep up with, we will ask you to use the traditional CIA.
 
 # Credits
-* Xeath Error correction and icon display enabled (currently not available)
+* Xeath → Error correction and icon display enabled (currently not available)
 * Core 2 Extreme(Enable chat on the server and support other languages)
 * windows-server-2003(Build Assistance)
 * Tekito-256(Error Correction)
