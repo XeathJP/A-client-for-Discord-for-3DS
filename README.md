@@ -10,6 +10,8 @@ In order to build this homebrew, you'll need the following requirements:
 * [sftdlib](https://github.com/xerpi/sftdlib)  
 Once you have installed these, a simple `make` should compile it. If you have FBI installed on your 3ds, and python installed on your computer, open FBI and go to `Remote install` -> `Recieve URLs over the network`.
  On your computer, type `make spunch`. This should install the CIA directly on your 3DS!
+ 
+**This source is not distributed according to the current stage of production.**
 
 # Explanation
 * We recommend hitting the login button several times in a row.
