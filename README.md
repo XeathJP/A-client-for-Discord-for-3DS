@@ -12,6 +12,7 @@ Once you have installed these, a simple `make` should compile it. If you have FB
  On your computer, type `make spunch`. This should install the CIA directly on your 3DS!
  
 **This source is not distributed according to the current stage of production.**
+*You are responsible for any banning of your account. Please create a sub-account and use it.*
 
 # Explanation
 * We recommend hitting the login button several times in a row.
